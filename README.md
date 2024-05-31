@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ToonCrafter-jupyter/blob/main/ToonCrafter_jupyter.ipynb) | ToonCrafter_jupyter (Pro Colab 😭 ~18GB VRAM)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ToonCrafter-jupyter/blob/main/ToonCrafter_jupyter.ipynb) | ToonCrafter_jupyter (Pro Colab 😭 ~23GB VRAM)
 
 ### 🧬 Code
 https://github.com/ToonCrafter/ToonCrafter
